@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArenaGameEngine", "ArenaGameEngine\ArenaGameEngine.csproj", "{9A27FB06-DF0A-4BD0-8E07-9E207CBEB773}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArenaGameConsole", "ArenaGameConsole\ArenaGameConsole.csproj", "{5950659C-71C7-4091-B2C5-3A5A3F49C5DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArenaGameEngine", "ArenaGameEngine\ArenaGameEngine.csproj", "{9A27FB06-DF0A-4BD0-8E07-9E207CBEB773}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
